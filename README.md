@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Asch ([21](https://github.com/Asch-sys/Asch-sys/blob/bdd765f4723db204e70157204882dcd00fa97855/hello_world.txt) y.o) ! :sunglasses:
+I'm Asch ([21](https://github.com/Asch-sys/Asch-sys/blob/bdd765f4723db204e70157204882dcd00fa97855/hello_world.txt) y.o) ! 👀:
 
 I'd like to do project that has relation to cybersecurity, anime or mmorpg. :ghost:
 
-:page_with_curl: I'm currently learning:
+:page_with_curl: I'm currently learning: 
 <br><br>
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
