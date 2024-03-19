@@ -24,7 +24,7 @@ I'd like to do project that has relation to cybersecurity, anime or mmorpg. :gho
 <br>
 
 
-![Snake animation](https://raw.githubusercontent.com/{asch-sys}/{asch-sys}/output/github-contribution-grid-snake-dark.svg)
+
 <!--Feel free to contact me :yum:
 <br><br>
 <!-- 
