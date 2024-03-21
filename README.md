@@ -17,13 +17,13 @@ I'd like to do project that has relation to cybersecurity, anime or mmorpg. :gho
 
 <details>
 <summary>:trophy: Github Stats</summary>
-<img src="https://bad-apple-github-readme.vercel.app/api?username=asch-sys&show_icons=true&show_bg=1&theme=graywhite">
-<img src="https://github-profile-trophy.vercel.app/?username=asch-sys">
+  <p align="center">
+    <img src="https://bad-apple-github-readme.vercel.app/api?username=asch-sys&show_icons=true&show_bg=1&theme=graywhite">
+  </p>  
+  <img src="https://github-profile-trophy.vercel.app/?username=asch-sys">
 </details>
 
 <br>
-
-
 
 <!--Feel free to contact me :yum:
 <br><br>
